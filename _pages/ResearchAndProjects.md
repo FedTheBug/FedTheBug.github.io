@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research and Projects"
+permalink: /rnd/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Under Development
+
