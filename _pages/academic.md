@@ -11,6 +11,6 @@ author_profile: true
   May 2016 - April 2020
 
 - ## Adamjee Cantonment College
-  Highest Secondary Certificate  
+  Highest Secondary Certificate.  
   *GPA-5.00/5.00*, A<sup>+</sup>.  
   2012-2014

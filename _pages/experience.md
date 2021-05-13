@@ -16,7 +16,7 @@ Dhaka, Bangladesh
 
 <br>
 
-- **Jr. Software and Application Engineer(AI/ML)**, [Teleaus](https://teleaus.com/)  
+- **Jr. Software and Application Engineer(AI/ML)**, [Teleaus](https://teleaus.com/).    
 Rhodes, Australia   
 <sup>Sept 2020- October 2020 (Remote)</sup>
     - Activities:
