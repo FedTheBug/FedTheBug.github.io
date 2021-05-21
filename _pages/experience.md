@@ -9,10 +9,10 @@ author_profile: true
 Dhaka, Bangladesh  
 <sup>Oct 2020 - Present</sup>
     - Activities:
-        - Worked on Pathao's Loyalty Program "Sancus" which was responsible for offering special privileges for the customer  from different Pathao Partners' outlets.
-        - Worked on Pathao's location service "Thikana" which stores addresses of millions of Pathao users and also the WIS(Walk in Support) addresses of the drivers using Pathao application.
-        - Implemented gRPC API which was consumed by other services for tier verification. 
-        - Technology Stack: GoLang, Python, MySQL, PostgreSQL, MongoDB, Redis, Docker, Kubernetes etc.
+        - Worked on Pathao's Loyalty Program "Sancus" which was responsible for offering special privileges for the customer from different Pathao Partners' outlets.
+        - Worked on Pathao's location service "Thikana" which stores addresses of millions of Pathao users and the WIS(Walk-in Supports) addresses of the drivers using Pathao application.
+        - Implemented gRPC API, which was consumed by other services for tier verification. 
+        - Technology Stack: GoLang, Python, MySQL, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, etc.
 
 <br>
 

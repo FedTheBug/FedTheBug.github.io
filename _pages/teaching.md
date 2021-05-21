@@ -10,7 +10,7 @@ Dhaka, Bangladesh
 <sup>Jan 2021 - Present</sup>
     - Activities:
         - Courses:  Concepts of Programming Languages(CSE425), Machine Learning(CSE445)
-        - Conducted tutorial sessions for students for assisgnments and projects.
+        - Conducted tutorial sessions for students for assignments and projects.
         - Assisted faculty members with quiz and assignment questions. 
         - Proctored exams and evaluated examination scripts.
         - Supervisors: [Dr. Ahsanur Rahman](http://ece.northsouth.edu/people/dr-ahsanur-rahman/), [Intisar Tahmid Naheen](http://ece.northsouth.edu/people/mr-intisar-tahmid-naheen/).
