@@ -13,7 +13,7 @@ Dhaka, Bangladesh
         - Conducted tutorial sessions for students for assignments and projects.
         - Assisted faculty members with quiz and assignment questions. 
         - Proctored exams and evaluated examination scripts.
-        - Supervisors: [Dr. Ahsanur Rahman](http://ece.northsouth.edu/people/dr-ahsanur-rahman/), [Intisar Tahmid Naheen](http://ece.northsouth.edu/people/mr-intisar-tahmid-naheen/).
+        - Supervisors: [Dr. Ahsanur Rahman](http://ece.northsouth.edu/people/dr-ahsanur-rahman/), [Dr. Muhammad Arifur Rahman](https://juniv.edu/teachers/arif), [Intisar Tahmid Naheen](http://ece.northsouth.edu/people/mr-intisar-tahmid-naheen/).
 
 <br>
 
