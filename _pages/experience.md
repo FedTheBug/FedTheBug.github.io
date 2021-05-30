@@ -20,7 +20,7 @@ Dhaka, Bangladesh
 Rhodes, Australia   
 <sup>Sept 2020- October 2020 (Remote)</sup>
     - Activities:
-        - Developed and integrated an automated paraphrasing tool using Google Pegasus for their Artificially Intelligentcustomer support chatbot, Alisa.
+        - Developed and integrated an automated paraphrasing tool using Google Pegasus for their Artificially Intelligent customer support chatbot, Alisa.
         - Integrated functionalities e.g.  spell-checking, speech to text module etc.  for the chatbot. 
         - Technology Stack:  Python, Django, Laravel, Vue.js, Tensorflow.
 
