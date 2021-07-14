@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Undergraduate Thesis: 
-- *”Shikhbe Shob.AI: An Artificially Intelligent Edicational Tool that can Generate Questions andAnswers from a Given Bengali Paragraph.”*
+- *”Shikhbe Shob.AI": An Artificially Intelligent Edicational Tool that can Generate Questions andAnswers from a Given Bengali Paragraph.”*
     - Worked on Relation Extraction and developed an Question-Answering tool as a proof of concept.
     - Trained Contextual Embeddings(ELMo) for Bangla.
     - Poster can be viewed [here](https://drive.google.com/file/d/1qWYUbO_O0W2hGgF9HSVk6sMIhj-6EST3/view).
